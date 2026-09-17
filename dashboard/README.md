@@ -1,7 +1,9 @@
-# Power BI Dashboard
+## Power BI Dashboard
 
-Interactive dashboard currently under development.
+The report contains two pages:
 
-Planned pages:
-- Supply Chain Risk Overview
-- Lead Time & Operational Planning
+1. Supply Chain Risk Overview
+2. Lead Time & Operational Planning
+
+Public Power BI embedding is restricted by the current Microsoft tenant.
+Dashboard previews are provided below.
